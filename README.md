@@ -14,3 +14,9 @@ Job Level views :
 ﻿Level 1 accounted for 36.94% of Total Emp﻿
 ﻿Level 1 accounted for 36.94% of Total Emp
 ﻿Across all 5 Job Level, Total Emp ranged from 69 to 543.
+
+Due for promotion :
+﻿At 47, Research & Development had the highest Due for promotion and was 2,250.00% higher than Human Resources, which had the lowest Due for promotion at 2.
+﻿Due for promotion and total Due for retrenchment are positively correlated with each other
+Due for retrenchment and Due for promotion diverged the most when the Department was Research & Development, when Due for retrenchment were 27 higher than Due for promotion
+﻿Sales had 23 Due for promotion and 36 Due for retrenchment. Research & Development had 47 Due for promotion and 74 Due for retrenchment. Human Resources had 2 Due for promotion and 7 Due for retrenchment
